@@ -10,12 +10,15 @@ This repo is a part of a larger PadPal project. The following is a list of the r
 - [PadPal-Mobile](https://github.com/ssebs/PadPal-Mobile)
   - This is the mobile app to interact with a hosted PadPal-Server.
 
-## Feature list for PadPal-CLI
-### MVP
-- 
-
-### Wish
-- 
+## Arch
+- Padpal sync client
+- CLI:
+  - Can be ran as a daemon w/ listen support
+  - Config file
+  - Args
+    - `--sync, -s`
+- TUI:
+  - maybe?
  
 ## LICENSE
 [Apache License 2.0](./LICENSE)
